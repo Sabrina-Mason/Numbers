@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2017\Projects\Number Reversal\Number Reversal\bin\Debug\Number Reversal.exe.config
+c:\users\student\documents\visual studio 2017\Projects\Number Reversal\Number Reversal\bin\Debug\Number Reversal.exe
+c:\users\student\documents\visual studio 2017\Projects\Number Reversal\Number Reversal\bin\Debug\Number Reversal.pdb
+c:\users\student\documents\visual studio 2017\Projects\Number Reversal\Number Reversal\obj\Debug\Number Reversal.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\Number Reversal\Number Reversal\obj\Debug\Number Reversal.exe
+c:\users\student\documents\visual studio 2017\Projects\Number Reversal\Number Reversal\obj\Debug\Number Reversal.pdb
